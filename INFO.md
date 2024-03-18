@@ -1,3 +1,3 @@
 git is awesome!
-new line
-new data
+
+I love Códica!
